@@ -1,1 +1,14 @@
-{"Nichole": "Instructional Designer", "Ann": "Developer", "Karalyn": "Designer"}
+[
+  {
+    "name": "Nichole",
+    "role": "Instructional Designer"
+  },
+  {
+    "name": "Ann",
+    "role": "Developer"
+  },
+  {
+    "name": "Karalyn",
+    "role": "Designer"
+  }
+]
